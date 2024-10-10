@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Ball","order":2,"path":"objects/Ball/Ball.yy",},
+    {"name":"Player","order":1,"path":"objects/Player/Player.yy",},
+    {"name":"load_model","order":1,"path":"scripts/load_model/load_model.yy",},
+    {"name":"screen_to_world","order":3,"path":"scripts/screen_to_world/screen_to_world.yy",},
+  ],
+}
